@@ -1,6 +1,6 @@
 - 👋 hi, I’m @wadeable
 - 👀 i like nfts, gaming, and formula 1
-- 🌱 currently frontend and backend web development with the intent of working in blockchain development long term
+- 🌱 junior web dev in training with the intent of working in blockchain development long term
 - 📫 wadeable.eth@gmail.com
 
 <!---
