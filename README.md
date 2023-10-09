@@ -1,7 +1,7 @@
 - 👋 hi, I’m @wadeable
-- 👀 i like nfts, gaming, and formula 1
-- 🌱 project coordinator, data analyst, and junior web dev with a deep interest in real estate, gaming, and NFTs
-- 📫 wadeable.eth@gmail.com
+- 👀 i like Formula 1 (Mercedes), Futbol (Tottenham Hotspurs), and gaming (mostly Valorant)
+- 🌱 data analyst, project manager, and junior web dev with a deep interest in tech, real estate, and gaming
+- 📫 jamesw_fisher@yahoo.com
 
 <!---
 wadeable/wadeable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
